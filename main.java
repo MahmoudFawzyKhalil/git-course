@@ -1,4 +1,4 @@
-public class Main{
+public class salma{
 	public static void main()
 	{
 		System.out.println("hello world!!");
@@ -13,3 +13,5 @@ public class Main{
 		System.out.println("Hello mahmoud");
 	}
 }
+
+salma salm
