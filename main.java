@@ -8,7 +8,8 @@ public class salma{
 		System.out.println("Hello mahmoud");
 
 		System.out.println("Hello mahmoud");
-
+        System.out.println("I am SAMY");
+		System.out.println("I am SAMY");
 		System.out.println("Hello mahmoud");
 	}
 }
